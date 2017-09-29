@@ -3,4 +3,6 @@ Hello World
 Michael was here
 Farewell
 
+Michael was here
+
 Jeong was here
